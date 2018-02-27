@@ -1,4 +1,4 @@
 # POJLab
 Laboratoria z POJ
 
-fajne repo
+fajne reposdad
